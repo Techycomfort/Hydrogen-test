@@ -1,0 +1,22 @@
+# Environment variables
+cypress.env.json
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store

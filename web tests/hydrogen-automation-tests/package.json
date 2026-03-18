@@ -1,0 +1,13 @@
+{
+  "name": "hydrogen-cypress-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Comfort Oladeji",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^15.12.0"
+  }
+}
